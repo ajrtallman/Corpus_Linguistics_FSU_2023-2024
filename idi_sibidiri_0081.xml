@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document xsi:noNamespaceSchemaLocation="file:FlexInterlinear.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <interlinear-text guid="46f74d1c-dc67-46a7-b0a8-6ad369d93175">
+    <item type="title" lang="en">0081</item>
+    <paragraphs>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="en">bi</item><item type="gls" lang="en">1dual</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">bi</item>
+                    <item type="gls" lang="en">1dual</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="punct" lang="en">[</item></word>
+              <word><item type="txt" lang="en">thu</item></word>
+              <word><item type="punct" lang="en">]</item></word>
+              <word><item type="txt" lang="en">gæthyæ</item><item type="gls" lang="en">there</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">gæthyæ</item>
+                    <item type="gls" lang="en">there</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="en">dzargen</item><item type="gls" lang="en">go</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">dzarg</item>
+                    <item type="gls" lang="en">go</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-en</item>
+                    <item type="gls" lang="en">3pl</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="en">doawa</item><item type="gls" lang="en">there</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">doawa</item>
+                    <item type="gls" lang="en">there</item>
+                  </morph>
+                </morphemes></word>
+            </words><item type="segnum" lang="es">1</item><item type="gls" lang="en">We went from here to</item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="en">Boigu</item><item type="gls" lang="en">Boigu</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">boigu</item>
+                    <item type="gls" lang="en">Boigu</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="en">dæmæ</item><item type="gls" lang="en">there</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">dæmæ</item>
+                    <item type="gls" lang="en">there</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="en">gwtærma</item><item type="gls" lang="en">sleep</item><morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">gw-</item>
+                    <item type="gls" lang="en">rempst</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">tær</item>
+                    <item type="gls" lang="en">sleep</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-m</item>
+                    <item type="gls" lang="en">pl.A/S</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-a</item>
+                    <item type="gls" lang="en">1/2</item>
+                  </morph>
+                </morphemes></word>
+            </words><item type="segnum" lang="es">2</item><item type="gls" lang="en">Boigu, there we slept</item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="en">bi</item><item type="gls" lang="en">1dual</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">bi</item>
+                    <item type="gls" lang="en">1dual</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="en">mth</item><item type="gls" lang="en">in.vain</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">mth</item>
+                    <item type="gls" lang="en">in.vain</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="en">dæmæ</item><item type="gls" lang="en">there</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">dæmæ</item>
+                    <item type="gls" lang="en">there</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="en">tamba</item><item type="gls" lang="en">hunt</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">tamba</item>
+                    <item type="gls" lang="en">hunt</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="en">ganggʌsmlema</item><item type="gls" lang="en">want</item><morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">g-</item>
+                    <item type="gls" lang="en">rempst</item>
+                  </morph>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">a-</item>
+                    <item type="gls" lang="en">theme</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">nggʌsml</item>
+                    <item type="gls" lang="en">want</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="en">-e</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-ma</item>
+                    <item type="gls" lang="en">3pl</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="en">dhʌndhʌga</item><item type="gls" lang="en">animal</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">dhʌndhʌg</item>
+                    <item type="gls" lang="en">animal</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-a</item>
+                    <item type="gls" lang="en">core</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="en">yagæ</item><item type="gls" lang="en">too.much</item><morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">yagæ</item>
+                    <item type="gls" lang="en">too.much</item>
+                  </morph>
+                </morphemes></word>
+            </words><item type="segnum" lang="es">3</item><item type="gls" lang="en">We wanted to hunt in the swamps there, but there were too many animals</item></word>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" vernacular="true" />
+      <language lang="es" font="Times New Roman" />
+    </languages>
+    <media-files offset-type="">
+      <media guid="6b8284fd-4c6c-4773-8e2a-d98d7a1ba45d" location="file:///D:/Idi_2023/2013/idi_sibidiri_0081.wav" />
+    </media-files>
+  </interlinear-text>
+</document>
